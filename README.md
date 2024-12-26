@@ -67,9 +67,4 @@ Data insights are visualized through charts and reports, providing actionable re
 3. Follow the Python scripts for uploading data and querying insights.
 4. Explore the queries and generate visualizations.
 
-## Contact
-For questions or collaborations, feel free to reach out via [LinkedIn](https://linkedin.com/in/abhishek-harikantra-0aab56266).
-
----
-
 This README provides a clear and concise overview of the project, making it easy for others to understand and use your work. Let me know if you'd like any adjustments! 
